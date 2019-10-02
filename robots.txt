@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oyiephusoo.septenary.cn/sitemap.xml
